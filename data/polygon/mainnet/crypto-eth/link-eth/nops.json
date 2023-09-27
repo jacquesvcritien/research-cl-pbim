@@ -1,0 +1,137 @@
+{
+    "nops_details": {
+        "0xc2a5c4518849e85c424993f16aba347165b734b7": {
+            "name": "01node",
+            "paymentAddress": [
+                "0xece9e7521451e2e8dee06c1677cf36274585377f"
+            ]
+        },
+        "0x51fafb35f31c434066267fc86ea24d8424115d2a": {
+            "name": "b_harvest",
+            "paymentAddress": [
+                "0x6cdc3efa3baa392faf3e5c1ca802e15b6185e0e8"
+            ]
+        },
+        "0x7537cb7b7e8083ff8e68cb5c0ca18553ab54946f": {
+            "name": "chainlayer",
+            "paymentAddress": [
+                "0x4a3df8cae46765d33c2551ff5438a5c5fc44347c"
+            ]
+        },
+        "0xe6c27255fbb9d3a9718fb5e2dc313cd6eba10b78": {
+            "name": "cryptomanufaktur",
+            "paymentAddress": [
+                "0x59ecf48345a221e0731e785ed79ed40d0a94e2a5"
+            ]
+        },
+        "0x7bf377f69da0e46da1502d5f2bcf9fb00c3b610b": {
+            "name": "dextrac",
+            "paymentAddress": [
+                "0x9efa0a617c0552f1558c95993aa8b8a68b3e709c"
+            ]
+        },
+        "0x550365027554bd20d750f9361e460c7428ffbd75": {
+            "name": "fiews",
+            "paymentAddress": [
+                "0xb97a32d95a31a504c3db28ddd574f21c700edbee"
+            ]
+        },
+        "0x52add4435c81a4e0fb2ec494966863e48bf9302e": {
+            "name": "inotel",
+            "paymentAddress": [
+                "0xb8c6e43f37e04a2411562a13c1c48b3ad5975cf4"
+            ]
+        },
+        "0x250abd1d4ebc8e70a4981677d5525f827660bde4": {
+            "name": "linkforest",
+            "paymentAddress": [
+                "0xd56fbff05d2e1cdbeb5cb50e8055dad0cf864792"
+            ]
+        },
+        "0xa1ab1c841898fe94900d00d9312ba954e4f81501": {
+            "name": "linkpool",
+            "paymentAddress": [
+                "0x797de2909991c66c66d8e730c8385bbab8d18ea6"
+            ]
+        },
+        "0x8ed47843e5030b6f06e6f204fcf2725378bb837a": {
+            "name": "linkriver",
+            "paymentAddress": [
+                "0x69f89efbb5e5519eaf93a0af3dba3f3101350b0d"
+            ]
+        },
+        "0x983d0e1d23d3109d15e833fb800a51ba154defd3": {
+            "name": "newroad_network",
+            "paymentAddress": [
+                "0xab35418fb9f8b13e3e6857c36a0769b9f94a87ec"
+            ]
+        },
+        "0xd0a8cb58efcee1caee48f3c357074862ca8210dc": {
+            "name": "pier_two",
+            "paymentAddress": [
+                "0x3fb4600736d306ee2a89edf0356d4272fb095768"
+            ]
+        },
+        "0x777ad55efc465052d6a4ab7bc75b6a15175bb399": {
+            "name": "simply_vc",
+            "paymentAddress": [
+                "0x1f11134a80aed1ff47e3ee97a4d3f978a0629669"
+            ]
+        },
+        "0x84a611b71254f5fccb1e5a619ad723cad8a03638": {
+            "name": "snzpool",
+            "paymentAddress": [
+                "0x9ccbfd17fa284f36c2ff503546160b256d1cd3d1"
+            ]
+        },
+        "0x7ba865f70e32c9f46f67e33fe06139c8c31a2fad": {
+            "name": "staking_facilities",
+            "paymentAddress": [
+                "0x3d65be029c949f52caba2d8e8270c098256697d9"
+            ]
+        },
+        "0x3dd12eb5ae0f1a106fb358c8b99830ab5690a7a2": {
+            "name": "vulcan_link",
+            "paymentAddress": [
+                "0x7d0f8dd25135047967ba6c50309b567957dd52c3"
+            ]
+        },
+        "0xe0ed2a6cad84df5191fe337e7dc9685d03ba3ed0": {
+            "name": "Unknown1",
+            "paymentAddress": [
+                "0xd9459cc85e78e0336adb349eabf257dbaf9d5a2b",
+                "0x552c56469c4ca50d7a35755702b95b9ffb4a4471"
+            ]
+        },
+        "0x21148f81d302442c34d39cb65b82f5e7138f9be6": {
+            "name": "Unknown2",
+            "paymentAddress": [
+                "0xb9e62f6a14ac8babb7f99993bdc3182a1976c22e"
+            ]
+        },
+        "0x36c3891112b381538b2b7cb5650da6c89bb48fff": {
+            "name": "Unknown3",
+            "paymentAddress": [
+                "0x0039f22efb07a647557c7c5d17854cfd6d489ef3"
+            ]
+        }
+    },
+    "transmitters": [
+        "0xE6c27255Fbb9d3a9718Fb5E2DC313Cd6EbA10b78",
+        "0x52Add4435c81a4e0fB2eC494966863e48BF9302E",
+        "0x983D0e1d23D3109D15e833fB800A51ba154DEfD3",
+        "0x250ABd1D4EBC8e70a4981677D5525f827660bDE4",
+        "0x84A611B71254F5fCCb1E5a619aD723CAD8a03638",
+        "0x7ba865F70E32C9f46f67E33FE06139c8C31a2fAd",
+        "0xa1ab1c841898Fe94900d00d9312ba954e4F81501",
+        "0x7537cB7b7E8083ff8E68cb5c0cA18553Ab54946f",
+        "0x8eD47843e5030b6F06e6F204Fcf2725378BB837a",
+        "0x7BF377f69Da0E46Da1502D5F2bcf9fB00c3B610b",
+        "0x51FAfb35f31C434066267fc86EA24D8424115d2a",
+        "0x550365027554bD20D750f9361e460C7428ffBd75",
+        "0x777Ad55EFc465052d6A4AB7bc75B6A15175bB399",
+        "0xd0A8Cb58efcee1CAeE48F3c357074862cA8210dc",
+        "0x3Dd12EB5aE0F1A106fB358C8B99830ab5690a7a2",
+        "0xC2a5c4518849E85C424993f16AbA347165b734B7"
+    ]
+}

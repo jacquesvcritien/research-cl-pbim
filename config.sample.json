@@ -1,0 +1,10 @@
+{
+    "ethereum": {
+        "providerUrl": "",
+        "providerUrlArchive": ""
+    },
+    "polygon": {
+        "providerUrl": "",
+        "providerUrlArchive": ""
+    }
+}

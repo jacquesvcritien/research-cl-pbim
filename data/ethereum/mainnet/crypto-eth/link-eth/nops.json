@@ -1,0 +1,134 @@
+{
+    "nops_details": {
+        "0x413e725094c7810669f91856cc58e73ea3fbc400": {
+            "name": "01node",
+            "paymentAddress": [
+                "0x7a30e4b6307c0db7aef247a656b44d888b23a2dc"
+            ]
+        },
+        "0x57cd4848b12469618b689163f507817940acca02": {
+            "name": "blockdaemon",
+            "paymentAddress": [
+                "0x3615fa045f00ae0ed60dc0141911757c2adc5e03"
+            ]
+        },
+        "0x7663c5790e1ebf04197245d541279d13f3c2f362": {
+            "name": "blocksize_capital",
+            "paymentAddress": [
+                "0x7cc60c9c24e9a290db55b1017af477e5c87a7550"
+            ]
+        },
+        "0xddeb598fe902a13cc523aaff5240e9988edce170": {
+            "name": "deutsche_telekom_mms",
+            "paymentAddress": [
+                "0x89177b9c203ba0a9294aecf2f3806d98907bec6f"
+            ]
+        },
+        "0xb976d01275b809333e3efd76d1d31fe9264466d0": {
+            "name": "dextrac",
+            "paymentAddress": [
+                "0x9efa0a617c0552f1558c95993aa8b8a68b3e709c"
+            ]
+        },
+        "0x5565b5362ff9f468ba2f144f38b87187c9a010a8": {
+            "name": "easy_2_stake",
+            "paymentAddress": [
+                "0xfdc770353dc0bfce80a17ab8a6a2e7d80590f1ba"
+            ]
+        },
+        "0xedbed9f5dea03dd0ec484577c41502af68b7c46a": {
+            "name": "figment_networks",
+            "paymentAddress": [
+                "0x95c98112bd9635a3159518401ae227d5a296e994"
+            ]
+        },
+        "0xf16e77a989529aa4c58318acee8a1548df3fccc1": {
+            "name": "kytzu",
+            "paymentAddress": [
+                "0x001e0d294383d5b4136476648acc8d04a6461ae3"
+            ]
+        },
+        "0x3c4ad65f5b4884397e1f09596c7ac7f8f95b3ff3": {
+            "name": "linkforest",
+            "paymentAddress": [
+                "0xd48fc6e2b73c2988fa50c994181c0cdca850d62a"
+            ]
+        },
+        "0xcc29be4ca92d4ecc43c8451fba94c200b83991f6": {
+            "name": "linkpool",
+            "paymentAddress": [
+                "0x7b1660682078fe0efd9310e8efe32cb93a0417bc",
+                "0xe9e11963f61322299f9919ff1dda01a825e82dbc",
+                "0x797de2909991c66c66d8e730c8385bbab8d18ea6"
+            ]
+        },
+        "0x8b1d49a93a84b5da0917a1ed42d8a3e191c28524": {
+            "name": "prophet",
+            "paymentAddress": [
+                "0xbdb624cd1051f687f116bb0c642330b2abdfcc06"
+            ]
+        },
+        "0x43793ee58e0a3d920e3e4a115a9fa07dc4b09715": {
+            "name": "staking_facilities",
+            "paymentAddress": [
+                "0xdd4bc51496dc93a0c47008e820e0d80745476f22"
+            ]
+        },
+        "0x0312ea121df0a323ff535b753172736cc9d53d13": {
+            "name": "syncnode",
+            "paymentAddress": [
+                "0xc51d3470693bc049809a1c515606124c7c75908d"
+            ]
+        },
+        "0x5a6fcc02d8c50ea58a22115a7c4608b723030016": {
+            "name": "wetez",
+            "paymentAddress": [
+                "0x111f1b41f702c20707686769a4b7f25c56c533b2"
+            ]
+        },
+        "0xe3e0596ac55ae6044b757bab27426f7dc9e018d4": {
+            "name": "xbto",
+            "paymentAddress": [
+                "0x0b16ec1044f60f03b0e815f863bd4d27638cbd0a"
+            ]
+        },
+        "0xdde59ceec7a2cc8b2bd78199877ba22018966813": {
+            "name": "ztake_org",
+            "paymentAddress": [
+                "0x9d69b0fcbcf9a7e513e947cd7ce2019904e2e764",
+                "0x41edd305eabfd3497c98341f8d0849f3c520b896"
+            ]
+        },
+        "0xcf4be57aa078dc7568c631be7a73adc1cda992f8": {
+            "name": "Unknown1",
+            "paymentAddress": [
+                "0xd9459cc85e78e0336adb349eabf257dbaf9d5a2b",
+                "0x552c56469c4ca50d7a35755702b95b9ffb4a4471"
+            ]
+        },
+        "0x11b6e91e5f8e9f2bc3d09d5c5113134cc85754a6": {
+            "name": "Unknown2",
+            "paymentAddress": [
+                "0x8d689476eb446a1fb0065bffac32398ed7f89165"
+            ]
+        }
+    },
+    "transmitters": [
+        "0x57CD4848b12469618b689163f507817940AccA02",
+        "0x7663C5790E1eBf04197245d541279D13f3c2f362",
+        "0xb976d01275B809333E3EfD76D1d31fE9264466D0",
+        "0x5565b5362FF9f468bA2f144f38b87187C9a010A8",
+        "0xEdBED9F5dEA03dD0ec484577C41502af68B7c46a",
+        "0xf16e77a989529AA4C58318acEe8A1548Df3fcCc1",
+        "0x3C4ad65F5b4884397e1F09596c7ac7F8F95b3fF3",
+        "0xcC29be4Ca92D4Ecc43C8451fBA94C200B83991f6",
+        "0x8b1d49a93A84B5dA0917a1ed42D8a3E191C28524",
+        "0x43793ee58E0a3D920e3e4a115A9FA07dc4B09715",
+        "0x0312EA121df0a323fF535B753172736cc9d53d13",
+        "0xddEB598fe902A13Cc523aaff5240e9988eDCE170",
+        "0x5a6fCc02D8c50eA58a22115A7c4608b723030016",
+        "0xe3E0596AC55Ae6044b757baB27426F7dC9e018d4",
+        "0xDdE59ceeC7A2cC8B2bD78199877BA22018966813",
+        "0x413e725094c7810669F91856cc58e73eA3fbc400"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "ethereum/mainnet/link-eth": {
+        "name": "LINK / ETH",
+        "path": "ethereum/mainnet/crypto-eth/link-eth",
+        "address": "0xbba12740DE905707251525477bAD74985DeC46D2"
+    },
+    "polygon/mainnet/link-eth": {
+        "name": "LINK / ETH",
+        "path": "polygon/mainnet/crypto-eth/link-eth",
+        "address": "0xD2AA3Fc2585999Ef9Ca66A1b6be18123b5774be7"
+    }
+}

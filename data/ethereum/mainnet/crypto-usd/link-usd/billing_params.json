@@ -1,0 +1,723 @@
+{
+    "12458848": {
+        "maximumGasPrice": 1000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 65000000,
+        "linkGweiPerObservation": 60000000,
+        "linkGweiPerTransmission": 300000000
+    },
+    "12510366": {
+        "maximumGasPrice": 1000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 89425000,
+        "linkGweiPerObservation": 28000000,
+        "linkGweiPerTransmission": 170000000
+    },
+    "12555672": {
+        "maximumGasPrice": 1000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 88507000,
+        "linkGweiPerObservation": 28000000,
+        "linkGweiPerTransmission": 170000000
+    },
+    "12608399": {
+        "maximumGasPrice": 1000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 106494000,
+        "linkGweiPerObservation": 14500000,
+        "linkGweiPerTransmission": 87000000
+    },
+    "12647869": {
+        "maximumGasPrice": 1000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 102829000,
+        "linkGweiPerObservation": 10875000,
+        "linkGweiPerTransmission": 65250000
+    },
+    "12697113": {
+        "maximumGasPrice": 1000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 104073000,
+        "linkGweiPerObservation": 10875000,
+        "linkGweiPerTransmission": 65250000
+    },
+    "12743022": {
+        "maximumGasPrice": 1000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 117731000,
+        "linkGweiPerObservation": 10875000,
+        "linkGweiPerTransmission": 65250000
+    },
+    "12788231": {
+        "maximumGasPrice": 1000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 114440000,
+        "linkGweiPerObservation": 10875000,
+        "linkGweiPerTransmission": 65250000
+    },
+    "12833990": {
+        "maximumGasPrice": 1000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 121000000,
+        "linkGweiPerObservation": 10875000,
+        "linkGweiPerTransmission": 65250000
+    },
+    "12876870": {
+        "maximumGasPrice": 1000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 129811000,
+        "linkGweiPerObservation": 10875000,
+        "linkGweiPerTransmission": 65250000
+    },
+    "12922786": {
+        "maximumGasPrice": 1000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 122400000,
+        "linkGweiPerObservation": 10875000,
+        "linkGweiPerTransmission": 65250000
+    },
+    "12966965": {
+        "maximumGasPrice": 1000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 116557000,
+        "linkGweiPerObservation": 11962500,
+        "linkGweiPerTransmission": 71775000
+    },
+    "13012090": {
+        "maximumGasPrice": 1000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 124327000,
+        "linkGweiPerObservation": 11962500,
+        "linkGweiPerTransmission": 71775000
+    },
+    "13064006": {
+        "maximumGasPrice": 1000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 114840000,
+        "linkGweiPerObservation": 14355000,
+        "linkGweiPerTransmission": 86130000
+    },
+    "13102561": {
+        "maximumGasPrice": 1000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 125000000,
+        "linkGweiPerObservation": 14355000,
+        "linkGweiPerTransmission": 86130000
+    },
+    "13148528": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 125000000,
+        "linkGweiPerObservation": 16508250,
+        "linkGweiPerTransmission": 99049500
+    },
+    "13192349": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 124800000,
+        "linkGweiPerObservation": 18159075,
+        "linkGweiPerTransmission": 108954450
+    },
+    "13230022": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 111800000,
+        "linkGweiPerObservation": 18159075,
+        "linkGweiPerTransmission": 108954450
+    },
+    "13282343": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 128900000,
+        "linkGweiPerObservation": 20882936,
+        "linkGweiPerTransmission": 125297617
+    },
+    "13327089": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 125500000,
+        "linkGweiPerObservation": 24015376,
+        "linkGweiPerTransmission": 144092258
+    },
+    "13371546": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 131500000,
+        "linkGweiPerObservation": 27617682,
+        "linkGweiPerTransmission": 165706097
+    },
+    "13416159": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 133800000,
+        "linkGweiPerObservation": 35902986,
+        "linkGweiPerTransmission": 215417926
+    },
+    "13460677": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 150800000,
+        "linkGweiPerObservation": 44878732,
+        "linkGweiPerTransmission": 269272407
+    },
+    "13505820": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 136200000,
+        "linkGweiPerObservation": 44878732,
+        "linkGweiPerTransmission": 269272407
+    },
+    "13550310": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 146300000,
+        "linkGweiPerObservation": 56098415,
+        "linkGweiPerTransmission": 336590508
+    },
+    "13595226": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 129800000,
+        "linkGweiPerObservation": 61708251,
+        "linkGweiPerTransmission": 370249550
+    },
+    "13633021": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 143000000,
+        "linkGweiPerObservation": 67879075,
+        "linkGweiPerTransmission": 407274505
+    },
+    "13683525": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 162400000,
+        "linkGweiPerObservation": 84848843,
+        "linkGweiPerTransmission": 509093131
+    },
+    "13727269": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 182600000,
+        "linkGweiPerObservation": 106061053,
+        "linkGweiPerTransmission": 636366413
+    },
+    "13758498": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 217800000,
+        "linkGweiPerObservation": 148485474,
+        "linkGweiPerTransmission": 890912978
+    },
+    "13816230": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 199800000,
+        "linkGweiPerObservation": 148485474,
+        "linkGweiPerTransmission": 890912978
+    },
+    "13867729": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 184700000,
+        "linkGweiPerObservation": 148485474,
+        "linkGweiPerTransmission": 890912978
+    },
+    "13951738": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 138800000,
+        "linkGweiPerObservation": 148485474,
+        "linkGweiPerTransmission": 890912978
+    },
+    "13997267": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 128900000,
+        "linkGweiPerObservation": 148485474,
+        "linkGweiPerTransmission": 890912978
+    },
+    "14042715": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 141200000,
+        "linkGweiPerObservation": 148485474,
+        "linkGweiPerTransmission": 890912978
+    },
+    "14094526": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 160500000,
+        "linkGweiPerObservation": 163334045,
+        "linkGweiPerTransmission": 980004275
+    },
+    "14139819": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 172600000,
+        "linkGweiPerObservation": 163334045,
+        "linkGweiPerTransmission": 980004275
+    },
+    "14179738": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 177000000,
+        "linkGweiPerObservation": 163334045,
+        "linkGweiPerTransmission": 980004275
+    },
+    "14218459": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 184000000,
+        "linkGweiPerObservation": 151900662,
+        "linkGweiPerTransmission": 911403975
+    },
+    "14262815": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 188000000,
+        "linkGweiPerObservation": 151900662,
+        "linkGweiPerTransmission": 911403975
+    },
+    "14308728": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 192000000,
+        "linkGweiPerObservation": 136710596,
+        "linkGweiPerTransmission": 820263577
+    },
+    "14354699": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 192000000,
+        "linkGweiPerObservation": 116204006,
+        "linkGweiPerTransmission": 697224040
+    },
+    "14398229": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 190000000,
+        "linkGweiPerObservation": 87153005,
+        "linkGweiPerTransmission": 522918030
+    },
+    "14444081": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 191000000,
+        "linkGweiPerObservation": 78437704,
+        "linkGweiPerTransmission": 470626227
+    },
+    "14488962": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 200000000,
+        "linkGweiPerObservation": 70593933,
+        "linkGweiPerTransmission": 423563604
+    },
+    "14533198": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 201000000,
+        "linkGweiPerObservation": 70594000,
+        "linkGweiPerTransmission": 423564000
+    },
+    "14577444": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 219000000,
+        "linkGweiPerObservation": 70594000,
+        "linkGweiPerTransmission": 423564000
+    },
+    "14616006": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 217000000,
+        "linkGweiPerObservation": 63534600,
+        "linkGweiPerTransmission": 381207600
+    },
+    "14660958": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 226000000,
+        "linkGweiPerObservation": 61628950,
+        "linkGweiPerTransmission": 369771760
+    },
+    "14711133": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 250000000,
+        "linkGweiPerObservation": 61628950,
+        "linkGweiPerTransmission": 369771760
+    },
+    "14756238": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 300000000,
+        "linkGweiPerObservation": 61628950,
+        "linkGweiPerTransmission": 369771760
+    },
+    "14800035": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 273000000,
+        "linkGweiPerObservation": 83199083,
+        "linkGweiPerTransmission": 499191876
+    },
+    "14842079": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 277000000,
+        "linkGweiPerObservation": 95678945,
+        "linkGweiPerTransmission": 574070657
+    },
+    "14885973": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 258000000,
+        "linkGweiPerObservation": 110030787,
+        "linkGweiPerTransmission": 660181256
+    },
+    "14928973": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 204000000,
+        "linkGweiPerObservation": 110030787,
+        "linkGweiPerTransmission": 660181256
+    },
+    "14968206": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 173000000,
+        "linkGweiPerObservation": 88024630,
+        "linkGweiPerTransmission": 528145005
+    },
+    "15014002": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 160000000,
+        "linkGweiPerObservation": 70419704,
+        "linkGweiPerTransmission": 422516004
+    },
+    "15057988": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 176000000,
+        "linkGweiPerObservation": 59856748,
+        "linkGweiPerTransmission": 359138603
+    },
+    "15082691": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 179000000,
+        "linkGweiPerObservation": 59856748,
+        "linkGweiPerTransmission": 359138603
+    },
+    "15128976": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 174000000,
+        "linkGweiPerObservation": 44892561,
+        "linkGweiPerTransmission": 269353952
+    },
+    "15141248": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 174000000,
+        "linkGweiPerObservation": 44892561,
+        "linkGweiPerTransmission": 269353952
+    },
+    "15218670": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 222000000,
+        "linkGweiPerObservation": 44892561,
+        "linkGweiPerTransmission": 269353952
+    },
+    "15263058": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 221000000,
+        "linkGweiPerObservation": 35914049,
+        "linkGweiPerTransmission": 215483162
+    },
+    "15307808": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 207000000,
+        "linkGweiPerObservation": 32322644,
+        "linkGweiPerTransmission": 193934846
+    },
+    "15360797": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 226000000,
+        "linkGweiPerObservation": 25858115,
+        "linkGweiPerTransmission": 155147877
+    },
+    "15396256": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 229000000,
+        "linkGweiPerObservation": 25858115,
+        "linkGweiPerTransmission": 155147877
+    },
+    "15446397": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 235000000,
+        "linkGweiPerObservation": 25858115,
+        "linkGweiPerTransmission": 155147877
+    },
+    "15491799": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 227300000,
+        "linkGweiPerObservation": 20686492,
+        "linkGweiPerTransmission": 124118302
+    },
+    "15574396": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 189000000,
+        "linkGweiPerObservation": 20686492,
+        "linkGweiPerTransmission": 124118302
+    },
+    "15625597": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 100,
+        "microLinkPerEth": 166000000,
+        "linkGweiPerObservation": 20686492,
+        "linkGweiPerTransmission": 124118302
+    },
+    "15674428": {
+        "maximumGasPrice": 1500,
+        "reasonableGasPrice": 20,
+        "microLinkPerEth": 176336672,
+        "linkGweiPerObservation": 20686492,
+        "linkGweiPerTransmission": 124118302
+    },
+    "15725725": {
+        "maximumGasPrice": 1500,
+        "reasonableGasPrice": 20,
+        "microLinkPerEth": 178000000,
+        "linkGweiPerObservation": 25858115,
+        "linkGweiPerTransmission": 155147878
+    },
+    "15769645": {
+        "maximumGasPrice": 1500,
+        "reasonableGasPrice": 25,
+        "microLinkPerEth": 182552957,
+        "linkGweiPerObservation": 33615550,
+        "linkGweiPerTransmission": 201692241
+    },
+    "15782883": {
+        "maximumGasPrice": 1500,
+        "reasonableGasPrice": 60,
+        "microLinkPerEth": 186619597,
+        "linkGweiPerObservation": 33615550,
+        "linkGweiPerTransmission": 201692241
+    },
+    "15819142": {
+        "maximumGasPrice": 1500,
+        "reasonableGasPrice": 60,
+        "microLinkPerEth": 194511594,
+        "linkGweiPerObservation": 38657883,
+        "linkGweiPerTransmission": 231946077
+    },
+    "15870336": {
+        "maximumGasPrice": 1500,
+        "reasonableGasPrice": 60,
+        "microLinkPerEth": 195675406,
+        "linkGweiPerObservation": 40590777,
+        "linkGweiPerTransmission": 243543381
+    },
+    "15919850": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 60,
+        "microLinkPerEth": 187033097,
+        "linkGweiPerObservation": 42620316,
+        "linkGweiPerTransmission": 255720550
+    },
+    "15970765": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 60,
+        "microLinkPerEth": 201022581,
+        "linkGweiPerObservation": 51144379,
+        "linkGweiPerTransmission": 306864660
+    },
+    "16020751": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 60,
+        "microLinkPerEth": 193855903,
+        "linkGweiPerObservation": 58816036,
+        "linkGweiPerTransmission": 352894359
+    },
+    "16070311": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 60,
+        "microLinkPerEth": 173378539,
+        "linkGweiPerObservation": 64697640,
+        "linkGweiPerTransmission": 388183795
+    },
+    "16120642": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 60,
+        "microLinkPerEth": 172801913,
+        "linkGweiPerObservation": 67932522,
+        "linkGweiPerTransmission": 407592985
+    },
+    "16170306": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 60,
+        "microLinkPerEth": 189157100,
+        "linkGweiPerObservation": 74725774,
+        "linkGweiPerTransmission": 448352284
+    },
+    "16221430": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 60,
+        "microLinkPerEth": 198938983,
+        "linkGweiPerObservation": 82198351,
+        "linkGweiPerTransmission": 493187512
+    },
+    "16247970": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 60,
+        "microLinkPerEth": 202803661,
+        "linkGweiPerObservation": 82198351,
+        "linkGweiPerTransmission": 493187512
+    },
+    "16321125": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 60,
+        "microLinkPerEth": 213836842,
+        "linkGweiPerObservation": 90418186,
+        "linkGweiPerTransmission": 542506263
+    },
+    "16377546": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 60,
+        "microLinkPerEth": 217763934,
+        "linkGweiPerObservation": 99460005,
+        "linkGweiPerTransmission": 596756889
+    },
+    "16427545": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 60,
+        "microLinkPerEth": 234820941,
+        "linkGweiPerObservation": 94487005,
+        "linkGweiPerTransmission": 566919045
+    },
+    "16471502": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 60,
+        "microLinkPerEth": 230745739,
+        "linkGweiPerObservation": 95431875,
+        "linkGweiPerTransmission": 572588235
+    },
+    "16499282": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 60,
+        "microLinkPerEth": 218387275,
+        "linkGweiPerObservation": 96386194,
+        "linkGweiPerTransmission": 578314118
+    },
+    "16578530": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 60,
+        "microLinkPerEth": 234942446,
+        "linkGweiPerObservation": 91566884,
+        "linkGweiPerTransmission": 549398412
+    },
+    "16622054": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 60,
+        "microLinkPerEth": 225109256,
+        "linkGweiPerObservation": 94313891,
+        "linkGweiPerTransmission": 565880364
+    },
+    "16677774": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 60,
+        "microLinkPerEth": 208795844,
+        "linkGweiPerObservation": 89598196,
+        "linkGweiPerTransmission": 537586346
+    },
+    "16726929": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 60,
+        "microLinkPerEth": 222969739,
+        "linkGweiPerObservation": 90494178,
+        "linkGweiPerTransmission": 542962209
+    },
+    "16770720": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 60,
+        "microLinkPerEth": 227409551,
+        "linkGweiPerObservation": 91399120,
+        "linkGweiPerTransmission": 548391831
+    },
+    "16821395": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 60,
+        "microLinkPerEth": 245831579,
+        "linkGweiPerObservation": 90485129,
+        "linkGweiPerTransmission": 542907913
+    },
+    "16870466": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 60,
+        "microLinkPerEth": 240835135,
+        "linkGweiPerObservation": 87770575,
+        "linkGweiPerTransmission": 526620676
+    },
+    "16925451": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 60,
+        "microLinkPerEth": 240581794,
+        "linkGweiPerObservation": 88648281,
+        "linkGweiPerTransmission": 531886883
+    },
+    "16970176": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 60,
+        "microLinkPerEth": 246276944,
+        "linkGweiPerObservation": 89534764,
+        "linkGweiPerTransmission": 537205752
+    },
+    "17017970": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 60,
+        "microLinkPerEth": 259883495,
+        "linkGweiPerObservation": 90430112,
+        "linkGweiPerTransmission": 542577810
+    },
+    "17066421": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 60,
+        "microLinkPerEth": 269729197,
+        "linkGweiPerObservation": 89525811,
+        "linkGweiPerTransmission": 537152032
+    },
+    "17117406": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 60,
+        "microLinkPerEth": 258184352,
+        "linkGweiPerObservation": 94002102,
+        "linkGweiPerTransmission": 564009634
+    },
+    "17168144": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 60,
+        "microLinkPerEth": 265693783,
+        "linkGweiPerObservation": 98702207,
+        "linkGweiPerTransmission": 592210116
+    },
+    "17217650": {
+        "maximumGasPrice": 3000,
+        "reasonableGasPrice": 60,
+        "microLinkPerEth": 276948694,
+        "linkGweiPerObservation": 138183090,
+        "linkGweiPerTransmission": 829094162
+    }
+}
